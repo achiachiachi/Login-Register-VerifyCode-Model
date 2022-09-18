@@ -1,0 +1,48 @@
+.main_icon {
+    height: 120px;
+    margin-left: 30px;
+}
+
+.imge1 {
+    background-image: url("studentsn111.PNG");
+    height: 720px;
+    background-size: 1600px 800px;
+
+}
+
+.imge2 {
+    background-image: url("studentsn222.PNG");
+    height: 720px;
+    background-size: 1600px 800px;
+}
+
+.imge3 {
+    background-image: url("studentsn333.PNG");
+    height: 720px;
+    background-size: 1600px 800px;
+}
+
+.login_box {
+    width: 440px;
+    margin: auto;
+    margin-top: 100px;
+    border: solid 0.25px rgb(165, 165, 165);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.buttt {
+    margin-left: 40px;
+    margin-top: 20px;
+    text-align: center;
+    width: 350px;
+    background-color: rgb(65, 115, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+}
+
+.buttt:hover {
+    background-color: rgb(32, 91, 255);;
+}
