@@ -97,7 +97,7 @@ def register():
                     for i in range(6):
                         code = code + str(random.randint(1, 9))
                     mail = 'achishonia1234@gmail.com'
-                    passer = 'xwnlvcrxwjyivwip'
+                    passer = 'elnwcgqlllnbrjrb'
 
                     msg = f"""
                     Code: {code}
@@ -141,7 +141,7 @@ def register():
             for i in range(6):
                 code = code + str(random.randint(1, 9))
             mail = 'achishonia1234@gmail.com'
-            passer = 'xwnlvcrxwjyivwip'
+            passer = 'elnwcgqlllnbrjrb'
 
             msg = f"""
             Code: {code}
