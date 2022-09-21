@@ -63,6 +63,7 @@ def register():
     global id
     global reciever
     user = form2()
+    code = ''
     num = 0
     if current_user.is_authenticated:
         return redirect('/main')
@@ -168,6 +169,7 @@ def login():
     user = form()
     global User
     global num
+    global code
     num = 0
     if request.method == "POST":
         if "submit_button2" in request.form:
